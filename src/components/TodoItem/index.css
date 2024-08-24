@@ -1,0 +1,25 @@
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.todo-description {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  text-align: left;
+}
+
+.button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  width: 90px;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px solid #ff0b37;
+  font-size: 16px;
+}
